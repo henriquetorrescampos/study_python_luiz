@@ -14,6 +14,8 @@ print(people.values()) # return values of dictionary keys
 print(people.items()) # return key and value
 print(people.setdefault()) # add value to a key doesn't exist
 
+
+
 # for value in people.values():
 #     print(value)
 
