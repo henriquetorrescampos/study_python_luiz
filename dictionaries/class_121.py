@@ -19,3 +19,4 @@ print(people.setdefault()) # add value to a key doesn't exist
 
 # for key, value in people.items():
 #     print(key, value)
+
